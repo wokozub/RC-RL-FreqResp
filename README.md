@@ -1,7 +1,7 @@
 # RC-RL Frequency Response Analysis in MATLAB  
 
 ## Introduction  
-The goal of this project was to obtain Bode plots for first-order circuits using differential equations solved with the Runge-Kutta method in MATLAB.  
+The goal of this project was to obtain Bode plots for first-order circuits using differential equations solved with the Runge-Kutta method in MATLAB. The project was carried out as part of the laboratory of the subject "Computational Techniques" at the AGH University of Krakow
 
 ## Method Overview  
 A periodic input signal with a known frequency was applied to the circuit. Using the Runge-Kutta algorithm, the differential equations for RC and RL circuits were solved to determine the output waveforms.  
